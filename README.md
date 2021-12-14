@@ -12,6 +12,8 @@ urlFragment: azure-pipelines-python
 
 This repo contains tested reference examples of using Python with Azure Pipelines.
 
+Update Test. 21.12.14
+
 ## Pipelines
 
 This sample contains several Azure Pipelines for Python developers that showcase useful end-to-end patterns of varying complexity. All pipelines are in the [`.azure-pipelines`](.azure-pipelines) folder and have been fully annotated and validated.
